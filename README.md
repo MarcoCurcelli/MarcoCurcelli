@@ -8,8 +8,6 @@ Nesta ainda breve jornada pela programação, percebo que ela é muito similar �
 
 Por enquanto, aprendi apenas o beabá de <sub>html</sub> e <sub>css</sub>. Sendo franco, não tenho ideia de que direção quero seguir com isso, então, por enquanto, ainda estou na fase da descoberta.
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
-
 ## Testando imagens
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://static.wikia.nocookie.net/infinitas-guerras/images/d/d8/68519967-guts-wallpapers.jpg/revision/latest?cb=20161106144319&path-prefix=pt-br"> 
